@@ -1,0 +1,28 @@
+PODS:
+  - aes_256_ecb_pkcs5 (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - aes_256_ecb_pkcs5 (from `.symlinks/plugins/aes_256_ecb_pkcs5/ios`)
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+EXTERNAL SOURCES:
+  aes_256_ecb_pkcs5:
+    :path: ".symlinks/plugins/aes_256_ecb_pkcs5/ios"
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  aes_256_ecb_pkcs5: e4c1e491627293966b953fb5fda3f3a090e357cd
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
+
+PODFILE CHECKSUM: 6e700dec67e6deac9b1c69bb14c49a2217a12d15
+
+COCOAPODS: 1.15.2

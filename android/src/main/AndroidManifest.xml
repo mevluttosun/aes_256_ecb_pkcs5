@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.encryption.aes_256_ecb_pkcs5">
+</manifest>
